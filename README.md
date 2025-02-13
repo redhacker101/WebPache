@@ -47,4 +47,5 @@ Disclaimer
 
 This tool is provided as-is without any guarantees. Use it at your own risk!
 
+THIS IS IN BETA, FIRST VERSION IS COMING
 
